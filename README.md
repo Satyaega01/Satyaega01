@@ -3,26 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaega&label=Profile%20views&color=0e75b6&style=flat" alt="satyaega" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyaega" alt="satyaega" /></a> </p>
-
-- 🔭 I’m currently working on **PT Mahendradatta Jaya Mandiri**
-
-- 🌱 I’m currently learning **Laravel, PHP, Mysql**
-
-- 👯 I’m looking to collaborate on **Full Developer**
-
-- 🤝 I’m looking for help with **Graphic Designer / Front-End Developer**
-
-- 👨‍💻 All of my projects are available at [satyaega01.github.io](satyaega01.github.io)
-
-- 📝 I regularly write articles on [https://medium.com/@satyaega01](https://medium.com/@satyaega01)
-
-- 💬 Ask me about **Front-End**
-
-- 📫 How to reach me **satyaega01@gmail.com**
-
-- 📄 Know about my experiences [satyaega01.github.io](satyaega01.github.io)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
